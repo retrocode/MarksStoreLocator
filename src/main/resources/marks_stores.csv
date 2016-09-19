@@ -1,0 +1,406 @@
+Number,Name,Address1,Address2,Province,City,Postal,Latitude,Longitude
+12,Calgary Sunridge,3014 Sunridge Blvd NE,Sunridge Corner,Alberta,Calgary,T1Y 7G7,51.0767862,-113.9917903
+13,Calgary Macleod,6636 Macleod Trail SW,Chinook Station,Alberta,Calgary,T2H 0K6,50.9949143,-114.0714114
+15,Calgary West,400 Stewart Green SW,Westhills Towne Centre,Alberta,Calgary,T3H 3C8,51.01554100000001,-114.17179
+16,Calgary Heritage,33 Heritage Meadows Way SE,Unit 1120 Heritage Meadows Plaza,Alberta,Calgary,T2H 3B8,50.9825961,-114.0389059
+17,Calgary Forest Lawn,5315 17 Avenue SE,Forest Hill Plaza,Alberta,Calgary,T2A 0W2,51.037342,-113.9569476
+18,Calgary Crowfoot,30 Crowfoot Terrace NW,Crowfoot Crossing,Alberta,Calgary,T3G 4J8,51.1277796,-114.1990647
+19,Calg Shawnessy,350 Shawville Blvd SE,Unit 240,Alberta,Calgary,T2Y 3S4,50.8987267,-114.0623537
+20,Airdrie,202 Veterans Blvd NE,Unit 101,Alberta,Airdrie,T4B 3P2,51.3023456,-114.0060396
+21,Edmonton South,10360 65 Avenue,null,Alberta,Edmonton,T6H 1T9,53.5023005,-113.4965427
+22,Edmonton North West,9915 178 Street,West Point Mall,Alberta,Edmonton,T5T 6L8,53.5357256,-113.6241465
+23,Edmonton East,4240 137 Avenue NW,null,Alberta,Edmonton,T5Y 2W7,53.5986457,-113.4079334
+24,Sherwood Park,342 390 Baseline Road,null,Alberta,Sherwood Park,T8H 1X1,53.542277,-113.2993321
+25,Edmonton White Oaks Square,12222 137 Avenue,Unit 121 White Oaks Square,Alberta,Edmonton,T5L 4X5,53.59988209999999,-113.5329363
+26,Edmonton Store 26,1404 99 Street,South Edmonton Common,Alberta,Edmonton,T6N 0A8,53.4432814,-113.4859026
+27,Camrose,120 6703 48 Avenue,null,Alberta,Camrose,T4V 3K3,53.0173475,-112.8576288
+28,Okotoks,201 Southridge Drive,Unit 341 Cornerstone Okotoks,Alberta,Okotoks,T1S 2E1,50.7065834,-113.9748532
+29,West Edmonton Mall,8882 170 Street NW,Unit 1100 West Edmonton Mall,Alberta,Edmonton,T5T 3J7,53.5224397,-113.6218728
+30,Brooks,1060 2 Street W,Fairview Village Square Mall,Alberta,Brooks,T1R 0N8,50.5790596,-111.8952741
+31,Red Deer,6320 50 Avenue,Unit 114 Village Mall,Alberta,Red Deer,T4N 4C6,52.2848333,-113.8156289
+32,Lloydminster,4107 80 Avenue,Unit 113,Alberta,Lloydminster,T9V 0X9,53.27785,-110.0631239
+33,Medicine Hat,1971 Strachan Road SE,null,Alberta,Medicine Hat,T1B 0G4,49.99516029999999,-110.6462585
+34,Grande Prairie,9821 116 Street,null,Alberta,Grande Prairie,T8W 0C7,55.169474,-118.84701
+35,Lethbridge,1240 2A Avenue N,Unit 41 Centre Village Mall,Alberta,Lethbridge,T1H 0E4,49.7010714,-112.8285548
+36,Red Deer 2,2004 50 Avenue,Unit 147 Southpointe Common,Alberta,Red deer,T4R 3A2,52.2343991,-113.81691
+37,Fort McMurray,19 Riedel Street,Unit 200 Clearwater Landing,Alberta,Fort McMurray,T9H 5P8,56.7226051,-111.3620546
+38,Calgary Distribution,1035 64 Avenue SE,Unit 30,Alberta,Calgary,T2H 2J7,50.995405,-114.041563
+41,Saskatoon West,300 Confederation Drive,Unit 1 Confederation Mall,Saskatchewan,Saskatoon,S7L 4R6,52.1328267,-106.7214497
+42,Prince Albert,800 15 Street E,540 Cornerstone,Saskatchewan,Prince Albert,S6V 8E3,53.2006755,-105.7309843
+44,Regina 1,3915 Rochdale Blvd,null,Saskatchewan,Regina,S4X 4P7,50.4963172,-104.6366657
+46,Saskatoon SuperStore,1715 Preston Avenue N,Unit 101 Preston Crossing,Saskatchewan,Saskatoon,S7N 4V2,52.1482484,-106.6191317
+47,Weyburn,1240 Sims Avenue,null,Saskatchewan,Weyburn,S4H 3N9,49.6626246,-103.877099
+48,Surrey Delta,7908 120 Street,null,British Columbia,Surrey,V3W 3N2,49.1470083,-122.8882498
+49,Kelowna,500 1500 Banks Road,Kelowna Central Park Power Cntre Phase 1,British Columbia,Kelowna,V1X 7Y1,49.8880184,-119.4279438
+50,Calgary North Hill Mall,1632 14 Avenue NW,Unit 1658 North Hill Mall,Alberta,Calgary,T2N 1M7,51.06591,-114.0999491
+54,North Vancouver,1074 Marine Drive,Marine Plaza,British Columbia,North Vancouver,V7P 1S5,49.3238453,-123.1022861
+56,Steveston Hwy and Hwy 99,11380 Steveston Highway,Unit 120 Coppersmith Corner S.C.,British Columbia,Richmond,V7A 5J5,49.132389,-123.0992921
+57,Port Coquitlam,2129 Hawkins Street,Poco Power Centre,British Columbia,Port Coquitlam,V3B 0G6,49.253997,-122.7414827
+59,Langley,20150 Langley Bypass,Unit 70 Willowbrook Park Shopping Centre,British Columbia,Langley,V3A 9J8,49.1120901,-122.6643622
+60,Espanola,800 Center Street,Unit 105 Espanola Mall,Ontario,Espanola,P5E 1J3,46.2657181,-81.771057
+61,Scarborough,3434 Lawrence Avenue E,null,Ontario,Scarborough,M1H 1A9,43.7601589,-79.22842229999999
+62,Clarkson Crossing,920 Southdown Road,Unit H2 Clarkson Crossing,Ontario,Mississauga,L5J 2Y4,43.5079559,-79.6306996
+63,Brampton,547 Steeles Avenue E,Building E Orion Gate Shopping Centre,Ontario,Brampton,L6W 4S2,43.6769106,-79.7185877
+64,Burlington,3230 Fairview Street,null,Ontario,Burlington,L7N 3H5,43.3518678,-79.7882357
+66,Thunderbay Memorial,969 Fort William Road,null,Ontario,Thunder Bay,P7B 3A6,48.401809,-89.2388471
+68,North York,2625D Weston Road,Units 14-15 Crossroads Centre,Ontario,North York,M9N 3W2,43.7120184,-79.5323052
+69,Brampton North,30 Great Lakes Drive,Unit 111 Trinity Common,Ontario,Brampton,L6R 2K7,43.73209869999999,-79.76419370000001
+70,Barrhaven,3161 Greenbank Road N,Unit 9A Chapman Mills Marketplace,Ontario,Nepean,K2J 4H9,45.2700268,-75.7454328
+72,Barrie South,27 Caplan Avenue,null,Ontario,Barrie,L4N 6K3,44.3372167,-79.6900634
+73,Oshawa,421 Gibb Street,null,Ontario,Oshawa,L1J 1Z4,43.8866574,-78.87570909999999
+74,Scarborough Warden,1900 Eglinton Avenue E,null,Ontario,Scarborough,M1L 2L9,43.7271416,-79.2933295
+75,Stoney Creek,640 Queenston Road,Zellers Centre,Ontario,Hamilton,L8K 1K2,43.22955959999999,-79.7762559
+76,Windsor-Tecumseh Road,9 7654 Tecumseh Road E,null,Ontario,Windsor,N8T 1E9,42.3149718,-82.935537
+77,Hamilton,1508 Upper James Street,Unit F Upper James Square,Ontario,Hamilton,L9B 1K3,43.2064302,-79.8923089
+78,St Catharines,285 Geneva Street,Fairview Mall,Ontario,St. Catharines,L2N 2G1,43.1777434,-79.24445179999999
+79,Sarnia,1380 London Road,null,Ontario,Sarnia,N7S 1P8,42.9826053,-82.3516776
+80,Barrie 2,411 Bayfield Street,Unit B5-B7 Springwater Marketplace,Ontario,Barrie,L4M 6E5,44.4095253,-79.7060164
+81,Prince George,699 Central Street W,Spruceland Mall,British Columbia,Prince George,V2M 3C6,53.91878380000001,-122.7835653
+82,Toronto Stockyards,590 Keele Street,Toronto Stockyards,Ontario,Toronto,M6N 3E2,43.6711116,-79.4677324
+83,Rexdale - Etobicoke,55 Woodbine Downs Blvd,null,Ontario,Etobicoke,M9W 6N5,43.7378532,-79.60620089999999
+84,Mississauga 84,1180 Dundas Street E,null,Ontario,Mississauga,L4Y 2C1,43.6043776,-79.5886539
+85,Sudbury 85,1425 Kingsway Road,RioCan Centre Sudbury,Ontario,Sudbury,P3A 4R7,46.5028654,-80.9485258
+86,Mississauga North,5950 Rodeo Drive,Unit 5 Heartland Town Centre,Ontario,Mississauga,L5R 3V6,43.6134041,-79.6924344
+87,Woodbridge,200 Windflower Gate,Suite 500 Westridge Shopping Centre,Ontario,Woodbridge,L4L 9L3,43.7910555,-79.553359
+90,Devonshire,3100 Howard Avenue,Unit D2,Ontario,Windsor,N8X 3Y8,42.2746699,-83.00355619999999
+91,Sussex,138 Main Street,Units 4-6 Gateway Mall,New Brunswick,Sussex,E4E 3E1,45.7275332,-65.53018899999999
+92,St Leonard,7999 Boul Les Galeries D'Anjou,Unit B-018A,Quebec,Anjou,H1M 1W9,45.600518,-73.56451700000001
+93,Lasalle,6817 Newman Boul,Unit 7,Quebec,Lasalle,H8N 3E4,45.4493959,-73.6088949
+95,Pointe Claire,183A Boul Hymus,Terrarium S.C.,Quebec,Pointe-Claire,H9R 1E9,45.4620423,-73.81849679999999
+96,Centre Laval,1600 Boul Le Corbusier,Local 115 Centre Laval,Quebec,Laval,H7S 1Y9,45.5617682,-73.7315782
+97,Hull,45 Boul de Plateau,Unit 3,Quebec,Gatineau,J9A 3G1,45.4343768,-75.76988949999999
+98,Valleyfield,1940 Monseigneur-Langlois,Unit 110,Quebec,Salaberry-de-Valleyfield,J6S 5R1,45.27089,-74.12088349999999
+100,Rimouski,407 Montee Industrielle et Commerciale,null,Quebec,Rimouski,G5M 1Y1,48.45512120000001,-68.4953726
+101,Mascouche,139 Montee Masson,Mega Centre Mascouche,Quebec,Mascouche,J7K 3B4,45.7224868,-73.6138337
+103,Riviere-du-Loup,298 Boul Armand-Theriault,Local 75,Quebec,Riviere-du-Loup,G5R 4C2,47.82459249999999,-69.5482516
+104,Ste-Foy,1479 Avenue Jules-Vernes,null,Quebec,Quebec,G2G 2R8,46.8138783,-71.2079809
+105,Saint-Constant,510 Voie de Desserte,Route 132,Quebec,Saint-Constant,J5A 2E7,45.39017310000001,-73.58769269999999
+106,Beauport,709 Rue Clemenceau,null,Quebec,Quebec,G1C 7T9,46.8722676,-71.20128509999999
+107,Quebec 1,550 Boul Wilfrid-Hamel,Local F22 Place Fleur de Lys,Quebec,Quebec,G1M 2S6,46.8208806,-71.2521854
+108,Levis,98 Route du President-Kennedy,Unit A Place Kennedy,Quebec,Levis,G6V 6C9,46.7905039,-71.17185069999999
+109,Laval 3,600 Chomedey A13,null,Quebec,Laval,H7X 3S9,45.5428816,-73.73794480000001
+111,Trois Rivieres-Ouest,3325 Boul des Recollets,null,Quebec,Trois-Rivieres,G9A 6M1,46.3309333,-72.5669355
+113,Saint-Jean-Sur-Richelieu,50 Boul Omer-Marcil,null,Quebec,Saint-Jean-Sur-Richelieu,J2W 2X2,45.3315787,-73.2983752
+114,Marche Central,835 Rue Chabanel O,Marche Central,Quebec,Montreal,H4N 3J7,45.535747,-73.65740199999999
+115,Sherbrooke,1310 Boul Plateau St-Joseph,null,Quebec,Sherbrooke,J1L 3E2,45.419245,-71.9675683
+117,Repentigny,445 Rue Leclerc,null,Quebec,Repentigny,J6A 8J4,45.7455,-73.4542
+118,Joliette,1075 Boul Firestone,Les Galeries Joliette,Quebec,Joliette,J6E 6X6,46.0327605,-73.4246143
+119,Carrefour Ste-Agathe,40 Boul Norbert-Morin,Unit 199B,Quebec,Sainte-Agathe-Des-Monts,J8C 2V6,46.0460727,-74.27867259999999
+120,Port Hawkesbury,47 Paint Street,Unit 2 Port Hawkesbury Shopping Centre,Nova Scotia,Port Hawkesbury,B9A 3J9,45.6166414,-61.3339945
+121,Halifax,7010 Mumford Road,Halifax Shopping Centre,Nova Scotia,Halifax,B3L 4W7,44.648105,-63.62227649999999
+122,Bayers Lake,209 Chain Lake Drive,Bayers Lake Centre,Nova Scotia,Halifax,B3S 1C1,44.6520223,-63.6773834
+123,New Glasgow,689 Westville Road,Highland Square Mall,Nova Scotia,New Glasgow,B2H 2J6,45.579901,-62.6668126
+124,Sydney,800 Grand Lake Road,Unit P1 Mayflower Mall,Nova Scotia,Sydney,B1P 6S9,46.1468291,-60.1384554
+125,Saint John,171 McAllister Drive,Exhibition Plaza,New Brunswick,Saint John,E2J 2S6,45.3114206,-66.01607510000001
+126,Dartmouth Penhorn Mall,569 Portland Street,Unit 160 Penhorn Plaza,Nova Scotia,Dartmouth,B2Y 4B1,44.6726251,-63.53843639999999
+127,Truro,245 Robie Street,Unit 137,Nova Scotia,Truro,B2N 5N6,45.3709469,-63.30318920000001
+128,Bedford,1595 Bedford Highway,Suite 199 Sunnyside Mall,Nova Scotia,Bedford,B4A 3Y4,44.7330744,-63.654546
+129,Fredericton,1144 Prospect Street,null,New Brunswick,Fredericton,E3B 3C1,45.9395499,-66.6647351
+131,Yarmouth,76 Starrs Rd,Unit 2 Yarmouth Mall,Nova Scotia,Yarmouth,B5A 2T5,43.84477580000001,-66.10530300000001
+132,Brampton N.E.,10 Coventry Road,Unit 4,Ontario,Brampton,L6T 5P9,43.7397009,-79.69779059999999
+133,Courtenay,3267 Cliffe Avenue,null,British Columbia,Courtenay,V9N 2L9,49.66660719999999,-124.9787334
+134,Kingsgate,117 370 E Broadway,Kingsgate Mall,British Columbia,Vancouver,V5T 4G5,49.2623832,-123.0971025
+136,Salmon Arm,1151 10 Avenue SW,Unit 400,British Columbia,Salmon Arm,V1E 1T3,50.6937446,-119.2985924
+137,Quesnel,620A Newman Road,null,British Columbia,Quesnel,V2J 6Z8,52.96957219999999,-122.4396522
+138,Queensway & 427,167 North Queen Street,Queensway & 427,Ontario,Etobicoke,M9C 1A7,43.617255,-79.5538581
+139,Williams Lake,112 850 Oliver Street,Boitano Mall,British Columbia,Williams Lake,V2G 3W1,52.1288549,-122.1308808
+141,Pickering,1899 Brock Road,Unit 30,Ontario,Pickering,L1V 4H7,43.844221,-79.06809679999999
+142,Listowel,490 Mitchell Road S,null,Ontario,Listowel,N4W 3G7,43.7337538,-80.96667699999999
+143,Niagara Falls,7190 Morrison Street,Building C,Ontario,Niagara Falls,L2E 7K5,43.10213410000001,-79.1174118
+144,London-Wellington,1121 Wellington Road S,null,Ontario,London,N6E 1M1,42.9306986,-81.22165059999999
+145,Armadale Square Markham,7700 Markham Road,Unit 2 Armdale Square,Ontario,Markham,L3S 4S1,43.8534227,-79.25722259999999
+146,Cranbrook,2100 Willowbrook Drive,null,British Columbia,Cranbrook,V1C 7H2,49.52870739999999,-115.7477001
+147,Essex,300 Maidstone Avenue W,RR2,Ontario,Essex,N8M 2X6,42.1772974,-82.84091599999999
+149,Sault Ste. Marie,548 Great Northern Road,null,Ontario,Sault Ste. Marie,P6B 4Z9,46.543572,-84.31780049999999
+150,Timmins,2185 Riverside Drive,null,Ontario,Timmins,P4R 0A1,48.4719509,-81.40401969999999
+151,Newmarket Plaza,17820 Yonge Street,Unit B1,Ontario,Newmarket,L3Y 8S8,44.0614858,-79.4835179
+153,Kitchener,500 Fairway Road S,Unit 26 Fairway Centre,Ontario,Kitchener,N2C 1X3,43.4209965,-80.4469673
+154,Chatham,827 St Clair Street,RR7,Ontario,Chatham,N7L 0E9,42.4331501,-82.2191921
+156,Kingston,1041 Princess Street,null,Ontario,Kingston,K7L 1H3,44.244114,-76.5154659
+157,Nepean,1840 Merivale Road,Nepean Crossroads Centre,Ontario,Ottawa,K2G 1E6,45.3352983,-75.7245595
+158,Gloucester,1501 Innes Road,Unit B,Ontario,Ottawa,K1B 1C5,45.4158013,-75.6062175
+159,Brockville,220B Crocker Crescent,null,Ontario,Brockville,K6V 7N5,44.6125631,-75.6896253
+160,Cobourg,1125A Elgin Street  W,null,Ontario,Cobourg,K9A 5T9,43.9693199,-78.2035822
+161,Midland,16825 Highway 12,null,Ontario,Midland,L4R 4K3,44.73064919999999,-79.8751705
+162,Corner Brook,18 Murphy Square,Building H,Newfoundland,Corner Brook,A2H 1R4,48.9599454,-57.92426529999999
+163,London North,1737 Richmond Street,Unit 7 Masonvilles Hyland Centre,Ontario,London,N5X 3Y2,43.02729919999999,-81.28509129999999
+164,Guelph Stone Gate,492 Edinburgh Road S,Edinburgh Market Place  Building C,Ontario,Guelph,N1H 4Z1,43.52170719999999,-80.2352855
+165,Ancaster,1015 Golf Links Road,Meadowlands Square Building C,Ontario,Ancaster,L9G 3K9,43.2282978,-79.94135589999999
+166,Bells Corners,9 1821 Robertson Road,null,Ontario,Nepean,K2H 8X3,45.3291013,-75.81917949999999
+167,Burlington 2,2080 Appleby Line,Unit E5 Millcroft Shoping Centre,Ontario,Burlington,L7L 6M6,43.3971775,-79.796899
+168,Mississauga West,2501 Hyde Park Gate,Unit E Hyde Park Gate,Ontario,Oakville,L6H 6G6,43.515583,-79.6870962
+169,London Argyle,1925 Dundas Street,Unit 104 Argyle Mall,Ontario,London,N5V 1P7,43.0030154,-81.17300329999999
+170,Georgetown,280 Guelph Street,null,Ontario,Georgetown,L7G 4B1,43.6486711,-79.89833969999999
+172,Belleville,214 Bell Blvd,null,Ontario,Belleville,K8P 5L8,44.1866091,-77.4080094
+173,Oshawa/Townline,1397 Harmony Road N,null,Ontario,Oshawa,L1H 7K5,43.9412095,-78.8478064
+175,Ottawa South Keys,2210 Bank Street,South Keys Shopping Centre,Ontario,Ottawa,K1V 1J5,45.3567835,-75.6551501
+176,Ajax Durham Center,40 Kingston Road E,Durham Centre,Ontario,Ajax,L1Z 1E9,43.86512219999999,-79.02352330000001
+177,Kingston,14 636 Gardiners Road,Riocan Centre,Ontario,Kingston,K7M 3X9,44.2442653,-76.5618183
+178,Orleans,2055 10 Line Road,Unit 7 South Orleans Centre,Ontario,Orleans,K4A 4C5,45.4827658,-75.4978656
+179,Cornwall,501 Tollgate Road West,Unit 1,Ontario,Cornwall,K6H 0B4,45.0409639,-74.76215169999999
+180,Mississauga 2,3155 Argentia Road,Unit 7,Ontario,Mississauga,L5N 8E1,43.5950257,-79.78862509999999
+181,Yellowknife,307 Old Airport Road,null,Northwest Territories,Yellowknife,X1A 3T3,62.4484001,-114.4107366
+182,Huntsville  ON,111 Howland Drive,Unit 90,Ontario,Huntsville,P1H 2P4,45.3432397,-79.2284896
+183,Sheppard/Leslie,1019 Sheppard Avenue E,null,Ontario,North York,M2K 1C2,43.7693621,-79.3715246
+184,North Bay,850 McKeown Avenue,null,Ontario,North Bay,P1B 8M1,46.3314885,-79.47333300000001
+185,Owen Sound 2,1605 16 Street E,RR 1,Ontario,Owen Sound,N4K 5N3,44.5740764,-80.9148702
+186,Hanover,1088 10 Street,RR 1,Ontario,Hanover,N4N 3B8,44.1572201,-80.99799620000002
+187,McCowan/Sheppard,1900 McCowan Road,null,Ontario,Scarborough,M1S 4K1,43.7911799,-79.2600259
+189,Bolton,50 McEwan Drive E,Unit J-7,Ontario,Bolton,L7E 2Y3,43.8626819,-79.7122213
+190,New Liskeard,997453 C Highway 11 N,null,Ontario,New Liskeard,P0J 1P0,47.5315831,-79.6736172
+192,Aurora,15380 Bayview Avenue,Unit A7 Home Depot Centre Bldg A,Ontario,Aurora,L4G 7J1,44.0081257,-79.4452924
+193,Whitehorse,2 Chilkoot Way,null,Yukon Territory,Whitehorse,Y1A 6T5,60.73101620000001,-135.0723432
+194,Granby,50 Rue Simonds N,null,Quebec,Granby,J2J 2L1,45.4158962,-72.75318779999999
+196,Woodstock,337 Connell Street,Unit 2,New Brunswick,Woodstock,E7M 5G5,46.1659675,-67.59701179999999
+197,Antigonish,133 Church Street,Unit A Antigonish Mall,Nova Scotia,Antigonish,B2G 2E3,45.6145982,-61.9832224
+198,Gander,132 Bennett Drive,Gander Mall,Newfoundland,Gander,A1V 2H2,48.9514206,-54.60321880000001
+199,Bridgewater,421 LaHave Street,Bridgewater Mall,Nova Scotia,Bridgewater,B4V 3A2,44.3773023,-64.5154716
+201,Victoria (Broadmead),777 Royal Oak Drive,210 Broadmead Village Shopping Centre,British Columbia,Victoria,V8X 4V1,48.49758509999999,-123.3823094
+202,Prince George,5750 Southridge Avenue,Unit 2,British Columbia,Prince George,V2N 7A1,53.86663429999999,-122.7819659
+203,Merritt,2761 Forksdale Avenue,null,British Columbia,Merritt,V1K 1R9,50.12293380000001,-120.7615327
+208,Victoria 1,530 Chatham Street,Unit 1,British Columbia,Victoria,V8T 5K1,48.4314757,-123.3681326
+209,Westbank,3550 Carrington Road,Unit 101 Westbank Hub Centre,British Columbia,Westbank,V4T 2Z1,49.83580019999999,-119.6136519
+212,Victoria 2,2955 Phipps Road,117 Westshore Village Shopping Centre,British Columbia,Victoria,V9B 0J9,48.43907979999999,-123.5056101
+214,Creston,1000 Northwest Blvd,null,British Columbia,Creston,V0B 1G6,49.1048501,-116.5185129
+216,Peace River,7725 100 Avenue,null,Alberta,Peace River,T8S 1M5,56.2314161,-117.3374514
+218,Hinton,900 Carmichael Lane,Unit 460 Parks West Mall,Alberta,Hinton,T7V 1Y6,53.383654,-117.6257836
+220,St Albert,700 St Albert Road,Unit 660,Alberta,St. Albert,T8N 7A5,53.6598601,-113.6334203
+222,Nelson,1150 Lakeside Drive,Unit 130 Chahko Mika Mall,British Columbia,Nelson,V1L 5Z3,49.4991466,-117.2883842
+223,Calgary McKenzie,4889 130 Avenue SE,Unit 9 South Trail Crossing,Alberta,Calgary,T2Z 4J2,50.9301101,-113.9651019
+224,Fort St John,9600 93 Avenue,Unit E4 Totem Mall,British Columbia,Fort St. John,V1J 5Z2,56.2375613,-120.8427021
+225,Trail,8238 Highway 3B,null,British Columbia,Trail,V1R 4W4,49.08895340000001,-117.6272034
+226,Port Alberni,3500 Johnston Road,Unit 102 Alberni Mall,British Columbia,Port Alberni,V9Y 7W8,49.2650471,-124.7856321
+228,Sechelt,308 5500 Sunshine Coast Highway,null,British Columbia,Sechelt,V0N 3A0,49.474611,-123.7469692
+229,South Burnaby,7250 Market Crossing,CRU 11B,British Columbia,Burnaby,V5J 0A2,49.199555,-122.9816207
+230,Fernie,1791B 9 Avenue,null,British Columbia,Fernie,V0B 1M5,49.517231,-115.0586252
+231,Dawson Creek,11000 8 Street,Unit 13 Dawson Mall,British Columbia,Dawson Creek,V1G 4K6,55.75001839999999,-120.2217096
+233,Strathmore,109 900 Pine Road,null,Alberta,Strathmore,T1P 1C1,51.0361133,-113.3892301
+234,Castlegar,100 1965 Columbia Avenue,null,British Columbia,Castlegar,V1N 2W8,49.2965674,-117.6536499
+235,Coventry Hills,130 Country Village Road NE,Unit 453 Coventry Hills Centre,Alberta,Calgary,T3K 6B8,51.16142199999999,-114.0656851
+236,High Level,1 Gateway Boulevard,null,Alberta,High Level,T0H 1Z0,58.50719289999999,-117.1482115
+237,Duncan,2929 Green Road,null,British Columbia,Duncan,V9L 0C1,48.8004634,-123.7180059
+238,Leduc,5400 Discovery Way,null,Alberta,Leduc,T9E 8L9,53.26848640000001,-113.5674168
+239,Calgary Beacon Hills,11602 Sarcee Trail NW,Unit D1,Alberta,Calgary,T3R 0A1,51.1565013,-114.1618805
+240,Regina 2,2223 Victoria Avenue East,Unit 54,Saskatchewan,Regina,S4N 6E4,50.44699809999999,-104.5509773
+243,Drayton Valley,5203 Power Centre Blvd,null,Alberta,Drayton Valley,T7A 0A5,53.2248423,-114.9947353
+244,St Paul,4210 50 Avenue,null,Alberta,St. Paul,T0A 3A2,53.9921427,-111.2748451
+245,Wetaskiwin,3851 56 Street,null,Alberta,Wetaskiwin,T9A 2B1,52.9574899,-113.3885294
+246,Bonnyville,4406 50 Avenue,null,Alberta,Bonnyville,T9N 1B7,54.26771429999999,-110.7272045
+247,Rocky Mountain House,5440 46 Street,null,Alberta,Rocky Mountain House,T4T 1B7,52.382084,-114.9138362
+248,Taber,5212 48 Avenue,null,Alberta,Taber,T1G 1S1,49.78418000000001,-112.1459307
+249,Prince Rupert,500 2 Avenue W,Unit 355 Rupert Square Shopping Centre,British Columbia,Prince Rupert,V8J 3T6,54.3131408,-130.3278141
+250,White Rock,2425 160 Street,Building P1 Grandview Corners,British Columbia,Surrey,V3Z 0C8,49.04667,-122.7797311
+251,Vancouver West,1885 W 4 Avenue,null,British Columbia,Vancouver,V6J 1M4,49.2683224,-123.14766
+252,Campbell River,1326 Island Highway,Discovery Harbour,British Columbia,Campbell River,V9W 8C9,50.0330993,-125.2485442
+257,Olds,650 6900 46 Street,null,Alberta,Olds,T4H 0A2,51.7968279,-114.1389582
+258,Surrey 2,10191 152 Street,Guildford Town Centre,British Columbia,Surrey,V3R 4G6,49.1875151,-122.8012579
+259,Coquitlam,1090 Lougheed Highway,Unit 104,British Columbia,Coquitlam,V3K 6G9,49.2339502,-122.8624578
+261,Nanaimo,1 6334 Metral Drive,null,British Columbia,Nanaimo,V9T 2L8,49.2301218,-124.043296
+262,Edson,5919 2 Avenue,Unit 102,Alberta,Edson,T7E 1L8,53.57320319999999,-116.4557655
+264,Vernon,2401 58 Avenue,Unit 400,British Columbia,Vernon,V1T 9T5,50.288532,-119.2624741
+265,Whitecourt,4721 51 Street,null,Alberta,Whitecourt,T7S 1N6,54.13843560000001,-115.6858335
+267,Lethbridge 2,3728 Mayor Magrath Drive S,Unit 10,Alberta,Lethbridge,T1K 7V1,49.6563139,-112.7941942
+269,Grande Prairie 2,11801 100 Street,Unit 141 Prairie Mall,Alberta,Grande Prairie,T8V 3Y2,55.1878946,-118.7922118
+272,Cochrane  AB,10 60 Quarry Street East,null,Alberta,Cochrane,T4C 0W6,51.18411829999999,-114.4683585
+276,Greenwood,730 Central Avenue,null,Nova Scotia,Greenwood,B0P 1N0,44.9687298,-64.9389449
+279,Miramichi,99 Douglastown Blvd,null,New Brunswick,Miramichi,E1V 0A4,47.0336781,-65.4910149
+280,Dauphin,1450 Main Street S,Unit 6 Dauphin Market Place,Manitoba,Dauphin,R7N 3H4,51.1362303,-100.0598486
+281,Portage La Prairie,1 2352 Sisson Drive,Unit D7,Manitoba,Portage La Prairie,R1N 3N8,49.9746369,-98.32467
+282,Winkler,785 Norquay Dr,null,Manitoba,Winkler,R6W 2S2,49.1909545,-97.9319302
+283,Grand Falls,180 Madawaska Road,Unit 125,New Brunswick,Grand Falls,E3Y 1A7,47.0550522,-67.743543
+285,Val D'Or,1801 3ieme Avenue,Carrefour du Nord-Ouest,Quebec,Val d'Or,J9P 5K1,48.0960163,-77.8265078
+287,Chicoutimi,1401 Boul Talbot,Unit F Place du Royaume,Quebec,Chicoutimi,G7H 5N6,48.4048406,-71.0553429
+291,Carbonear,120 Columbus Drive,Trinity Conception Square,Newfoundland,Carbonear,A1Y 1B3,47.7278123,-53.2447855
+292,Rouyn Noranda,100 du Terminus O,Unit 52-53 Les Promenades du Cuivre,Quebec,Rouyn-Noranda,J9X 6H7,48.2426164,-79.02481639999999
+294,ST. Eustache,620 Boul Arthur-Sauve,null,Quebec,Saint-Eustache,J7R 5A8,45.57623,-73.9195098
+295,Shawinigan,3423 Boul Royal,Les Galeries de Shawinigan,Quebec,Shawinigan,G9N 8K7,46.5637997,-72.7350589
+296,Bathurst,1300 Saint Peter Avenue,Unit 4A,New Brunswick,Bathurst,E2A 3A6,47.6401565,-65.6780622
+297,Amherst,142 S Albion Street,Unit 110 & 115 Amherst Centre Mall,Nova Scotia,Amherst,B4H 4H4,45.8119674,-64.1997751
+300,Brandon,911 18 Street N,Unit H Corral Centre,Manitoba,Brandon,R7A 7S1,49.8668773,-99.9593234
+301,Winnipeg 1,120 600 Empress Street,null,Manitoba,Winnipeg,R3G 0R5,49.8873894,-97.1969094
+302,Winnipeg 2,1580 Regent Avenue W,Unit6 Crossroads Station Shopping Centre,Manitoba,Winnipeg,R2C 2Y9,49.8963686,-97.0663673
+303,Kenora,1229 Highway 17 E,Unit 2,Ontario,Kenora,P9N 1L9,49.7592337,-94.4724715
+304,Winnipeg 4,785 Dakota Street,Unit 2,Manitoba,Winnipeg,R2M 5M2,49.8318715,-97.1068162
+305,Unicity,3647 Portage Avenue,Building C,Manitoba,Winnipeg,R3K 0X2,49.8846627,-97.3120783
+306,Winnipeg North,915 Leila Avenue,Unit 4,Manitoba,Winnipeg,R2V 3J7,49.9538974,-97.14661749999999
+307,Thompson,300 Mystery Lake Road,null,Manitoba,Thompson,R8N 0M2,55.7442199,-97.84827539999999
+308,Steinbach,178 Highway 12 N,Unit 13 Clearspring Centre,Manitoba,Steinbach,R5G 1T7,49.5170768,-96.69121559999999
+309,Kenaston,1585 Kenaston Blvd,Unit 12,Manitoba,Winnipeg,R3P 2N3,49.826453,-97.20564229999999
+311,Ft Frances,1000 King's Highway,null,Ontario,Fort Frances,P9A 2X6,48.6083925,-93.4293807
+312,Selkirk,1031 Manitoba Avenue,null,Manitoba,Selkirk,R1A 3T7,50.1576319,-96.9000344
+313,Dartmouth 2,30 Lamont Terrace,null,Nova Scotia,Dartmouth,B3B 0B5,44.6996566,-63.5693479
+314,New Minas,9123 Commercial Street,Unit 2,Nova Scotia,New Minas,B4N 3E7,45.06893789999999,-64.4510956
+315,Fredericton North,75 Two Nations Crossing,null,New Brunswick,Fredericton,E3A 0T3,45.9895311,-66.6282978
+316,Vegreville,6639 Highway 16A W,null,Alberta,Vegreville,T9C 0A3,53.50126720000001,-112.0799934
+317,Spruce Grove,96 Campsite Road,Unit 12,Alberta,Spruce Grove,T7X 4J3,53.539917,-113.932565
+318,Athabasca,2913 48 Avenue,null,Alberta,Athabasca,T9S 0A4,54.718343,-113.252146
+319,Slave Lake,1500 Main Street,Sawridge Plaza,Alberta,Slave Lake,T0G 2A4,55.2721429,-114.7820109
+320,Edmonton,620 1100 Westmount Shopping Centre NW,null,Alberta,Edmonton,T5M 3L7,53.5200445,-113.4552628
+321,Fort Saskatchewan,9550 86 Avenue,Cornerstone Fort Sask,Alberta,Fort Saskatchewan,T8L 4P4,53.6961645,-113.2090412
+322,South Saskatoon,3011 Clarence Avenue S,Unit 150,Saskatchewan,Saskatoon,S7T 0B4,52.087761,-106.6454344
+323,Swift Current,1715 Memorial Drive NE,null,Saskatchewan,Swift Current,S9H 5B7,50.3094195,-107.7779809
+325,Moose Jaw,473 Thatcher Drive E,null,Saskatchewan,Moose Jaw,S6J 1L8,50.4104343,-105.5236388
+326,Estevan,400 King Street,Unit 1580 Estevan Shoppers Mall,Saskatchewan,Estevan,S4A 2B4,49.14536560000001,-102.9782551
+329,Deep River,33277 Highway 17 W,null,Ontario,Deep River,K0J 1P0,46.0999267,-77.5004557
+330,Cochrane,183 Highway 11 W,null,Ontario,Cochrane,P0L 1C0,49.0601425,-81.04545209999999
+331,Fort Erie,310 Garrison Road,null,Ontario,Fort Erie,L2A 1M7,42.9050047,-78.926295
+335,Bedford Damascus,150 Damascus Road,Bedford Commons,Nova Scotia,Bedford,B4A 0E5,44.7495261,-63.6440734
+336,La Pocatiere,175 Route 230 Ouest,null,Quebec,La Pocatiere,G0R 1Z0,47.3600494,-70.0528803
+337,Victoriaville,449 Boul Jutras E,Unit 400,Quebec,Victoriaville,G6P 7H4,46.0560593,-71.9416509
+338,Saint John Fairville,885 Fairville Blvd,null,New Brunswick,Saint John,E2M 5T9,45.2503846,-66.10050129999999
+339,Cold Lake,4902 69 Avenue,Unit 101,Alberta,Cold Lake,T9M 1Z9,54.4346907,-110.2039993
+340,Waterloo North/Woolwich,330 Farmers Market  Road,Unit 101,Ontario,Waterloo,N2V 0A5,43.5108385,-80.54967139999999
+341,Calgary Westbrook,1200 37 Street SW,Unit 16 Westbrook Mall,Alberta,Calgary,T3C 1S2,51.0422583,-114.1403001
+343,Oliver,5717 Main Street,Unit 155,British Columbia,Oliver,V0H 1T9,49.1708174,-119.5552893
+344,Mark's Online,1035 64 Avenue SE,Unit 30,Alberta,Calgary,T2H 2J7,50.995405,-114.041563
+345,Tantallon,5130 St Margarets Bay Road,null,Nova Scotia,Upper Tantallon,B3Z 1E2,44.6859315,-63.8770987
+346,Terrace,4717 Lakelse Avenue,Unit 122,British Columbia,Terrace,V8G 1R5,54.5163784,-128.5932988
+347,Milton,1220 Steeles Avenue E,Unit G2,Ontario,Milton,L9T 6R1,43.5405798,-79.8687817
+348,St. Georges,440 Rue 107e,null,Quebec,Saint-Georges,G5Y 8K1,46.126391,-70.68179809999999
+349,Kitimat,5855 68 Avenue SE,Bldg A,Alberta,Calgary,T2C 5A7,50.99369739999999,-113.9456483
+351,Moncton,18 Champlain Street,Unit 3,New Brunswick,Dieppe,E1A 1N3,46.0927364,-64.75922369999999
+352,Moncton 2,165 Trinity Drive,null,New Brunswick,Moncton,E1G 2H7,46.1147047,-64.8343223
+353,Chateauguay,c/o Legacy SCS,5 Ward Road,Ontario,Brampton,L6S 0B5,43.7315479,-79.7624177
+354,L`équipeur Online,1035 64 Avenue SE,Unit 30,Alberta,Calgary,T2H 2J7,50.995405,-114.041563
+356,Customer Service Department,1035 64 Avenue SE,Unit 30,Alberta,Calgary,T2H 2J7,50.995405,-114.041563
+357,Place Alexis Nihon,c/o Legacy SCS,5 Ward Road,Ontario,Brampton,L6S 0B5,43.7315479,-79.7624177
+360,Edmonton SE Whitemud,1912 38 Avenue NW,Rio-Can Meadows,Alberta,Edmonton,T6T 0B9,53.4789817,-113.3720596
+361,Edmonton Capilano,9857 50 Street NW,null,Alberta,Edmonton,T6A 3X5,53.5393427,-113.4178622
+363,Edmonton Windermere,6264 Currents Drive West,null,Alberta,Edmonton,T6W 0L8,53.4361945,-113.6075815
+364,Sylvan Lake,62 Thevanez Industrial Trail,Unit 200,Alberta,Sylvan Lake,T4S 0B6,52.3067761,-114.0713924
+365,Stettler,6607 50 Avenue,null,Alberta,Stettler,T0C 2L2,52.3242953,-112.7335716
+366,Kemptville,380 Ryan's Well Drive,null,Ontario,Kemptville,K0G 1J0,45.0276724,-75.6337218
+367,Humboldt,2302A 8 Avenue,Quill Centre,Saskatchewan,Humboldt,S0K 2A0,52.2001332,-105.1476607
+368,Melfort,500 Highway 6 S,300 StoneGate,Saskatchewan,Melfort,S0E 1A0,52.8525648,-104.5899799
+369,Vancouver Grandview,2820 Bentall Street,null,British Columbia,Vancouver,V5M 4H4,49.2597086,-123.0311144
+370,King's Cross,7488 King George Blvd,Unit 450 King's Cross Shopping Centre,British Columbia,Surrey,V3W 0H9,49.1385513,-122.8442885
+371,North Vanc,1329 Main Street,Harbour Plaza,British Columbia,North Vancouver,V7J 3J7,49.3058294,-123.037451
+372,Powell River,104 4730 Joyce Avenue,Powell River Town Centre,British Columbia,Powell River,V8A 3B6,49.84383820000001,-124.5184742
+373,Gravenhurst,431 Talisman Drive,null,Ontario,Gravenhurst,P1P 0A7,44.90446550000001,-79.36938049999999
+374,Hamilton Centre,1283 Barton Street E,Hamilton Centre Mall,Ontario,Hamilton,L8H 2V4,43.2520403,-79.80656239999999
+376,Sudbury South,2408 Long Lake Road,null,Ontario,Sudbury,P3E 5H5,46.4399636,-81.00465199999999
+377,Canmore,1110 Gateway Avenue,null,Alberta,Canmore,T1W 0J1,51.0926724,-115.355099
+378,Invermere,480 Sarah Road,null,British Columbia,Invermere,V0A 1K3,50.5148261,-116.0092518
+379,Vancouver SW Marine Dr,8129 Ontario Street,null,British Columbia,Vancouver,V5X 0A7,49.2111019,-123.1072405
+380,High River,1208 5 Street SE,null,Alberta,High River,T1V 0J2,50.57113469999999,-113.8590856
+381,Regina,2715 Gordon Road,Unit 1Y2-B,Saskatchewan,Regina,S4S 6H7,50.40347209999999,-104.6225031
+385,Keswick,23558 Woodbine Avenue,Unit 1,Ontario,Keswick,L4P 0E2,44.21873739999999,-79.4456466
+386,Ottawa Trainyards,24 500 Terminal Avenue,null,Ontario,Ottawa,K1G 0Z3,45.4145372,-75.647384
+388,Smithers,3664 Highway 16 East,Unit 1380,British Columbia,Smithers,V0J 2N6,54.780314,-127.1626926
+389,Ft McMurray 2,108 Riverstone Ridge,Unit 101,Alberta,Fort McMurray,T9K 1S6,56.7596484,-111.437231
+390,Minden,92 Water Street,null,Ontario,Minden,K0M 2K0,44.9298228,-78.7176595
+391,Labrador City,500 Vanier Blvd,Unit 00320,Newfoundland,Labrador City,A2V 2W7,52.9480128,-66.92555399999999
+392,Oakville South,1100 Kerr Street,null,Ontario,Oakville,L6M 0L4,43.4498016,-79.69896319999999
+393,Gatineau,91 Boulevard de la Gappe,null,Quebec,Gatineau,J8T 0B5,45.4673793,-75.716959
+395,Port Perry,1535 Highway 7A,Unit B2,Ontario,Port Perry,L9L 1B8,44.09380549999999,-78.9641659
+505,Charlottetown,202 Buchannan Street,null,Prince Edward Island,Charlottetown,C1E 2H8,46.2634621,-63.1482312
+506,Summerside,454 Granville Street,Units 5-7 Granville Street Plaza,Prince Edward Island,Summerside,C1N 4K7,46.4116441,-63.7838565
+513,Western Canada Embroidery 2,9230 41 Avenue NW,null,Alberta,Edmonton,T5E 6R7,53.47684659999999,-113.4708081
+514,Eastern Canada Embroidery,2333 Millrace Court,Unit 1,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+515,Buckingham (Gatineau),174 Ave Lepine,null,Quebec,Gatineau,J8L 4M4,45.575529,-75.4006447
+516,Vaudreuil,3218 Boul de la Gare,Unit 130,Quebec,Vaudreuil-Dorion,J7V 8W5,45.40492099999999,-74.04547719999999
+517,Pointe Aux Trembles,3500 Boul du Tricentenaire,null,Quebec,Montreal,H1B 0A3,45.6523624,-73.5132753
+518,Laval East,4975 Boul Robert-Bourassa,null,Quebec,Laval,H7E 0A4,45.6096801,-73.695494
+519,Chelmsford,3595 Highway 144,null,Ontario,Chelmsford,P0M 1L0,46.5687316,-81.1853314
+520,Gaspe,39 13 Montee Sandy Beach,null,Quebec,Gaspe,G4X 2A9,48.82496099999999,-64.473958
+521,Waterloo West,662 Erb Street,null,Ontario,Waterloo,N2T 2Z7,43.4458602,-80.5727601
+522,Kingston East,1040 Division Street,null,Ontario,Kingston,K7K 0C3,44.2625541,-76.4999969
+523,Scarborough South,255 Morningside Avenue,null,Ontario,Scarborough,M1E 3E6,43.77008660000001,-79.1843677
+525,Cowansville,149 Rue de Salaberry,null,Quebec,Cowansville,J2K 5G9,45.1908578,-72.7602598
+526,Boisbriand,3130 Boul des Grandes Tourelles,Faubourg Boisbriand,Quebec,Boisbriand,J7H 0A2,45.6273967,-73.84839629999999
+527,Collingwood,59 Balsam Street,null,Ontario,Collingwood,L9Y 3Y6,44.5029358,-80.23628479999999
+528,Imagewear by Mark's - Moncton Fulfillmen,34 Rideout Street,null,New Brunswick,Moncton,E1E 1E2,46.0760227,-64.82734239999999
+529,Tracadie-Sheila,450 Rue de Moulin,null,New Brunswick,Tracadie-Sheila,E1X 1A4,47.5219791,-64.9164849
+530,Marystown,25 57 Columbia Drive,Peninsula Mall,Newfoundland,Marystown,A0E 2M0,47.16546839999999,-55.15906760000001
+532,Hamilton Limeridge,920 Upper Wentworth Street,Unit 1 Kingfisher Mall,Ontario,Hamilton,L9A 5C5,43.2199062,-79.86417659999999
+534,Yonge & Hwy 7,45 Red Maple Road,Unit 2,Ontario,Richmond Hill,L4B 4M6,43.8418582,-79.4208376
+536,Bay/Dundas,65 Dundas Street W,Eaton Centre,Ontario,Toronto,M5G 2C3,43.6558227,-79.3819642
+537,Amherstburg,400 Sandwich Street S,Unit 100,Ontario,Amherstburg,N9V 3L4,42.096667,-83.10950939999999
+538,Carleton Place,438 McNeely Avenue,Unit 1,Ontario,Carleton Place,K7C 0A6,45.1352311,-76.1240013
+539,Oakville Burloak (West),3487 Wyecroft Road,Unit G6,Ontario,Oakville,L6L 0B6,43.3974604,-79.7490792
+540,Lakeshore/Leslie,16B Leslie Street,null,Ontario,Toronto,M4M 3C1,43.6580927,-79.328699
+541,Hawkesbury,454 County Road 17,Unit 150,Ontario,Hawkesbury,K6A 2R2,45.5913888,-74.59469679999999
+544,Hearst,1330 Front Street,null,Ontario,Hearst,P0L 1N0,49.6919155,-83.6766959
+545,Napanee,89D Jim Kimmett Blvd,null,Ontario,Napanee,K7R 3L2,44.2605356,-76.96824429999999
+547,Rockland  ON,2764 Chamberland Street,Unit 1,Ontario,Rockland,K4K 0B2,45.54320939999999,-75.3031812
+551,Imagewear by Mark's - Calgary Fulfillmen,6325 11 Street SE,Unit 14,Alberta,Calgary,T2H 2L6,50.99631489999999,-114.0393187
+552,Eastern Canada Fulfillment,2333 Millrace Court,Unit 2-4,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+553,BC Fulfillment,c/o 551,6325 11 Street SE,Alberta,Calgary,T2H 2L6,51.0521214,-113.9816967
+554,Atlantic Fulfillment,c/o 558,2333 Millrace Court,Ontario,Mississauga,L5N 1W2,42.9907158,-80.07385289999999
+555,Perth,126 Wilson Street W,Perth Mews Shopping Mall,Ontario,Perth,K7H 2P3,44.909228,-76.26404359999999
+557,North AB/Sask Fulfillment,6325 11 Street SE,Unit 14,Alberta,Calgary,T2H 2L6,50.99631489999999,-114.0393187
+558,Imagewear by Mark's - Mississauga Fulfil,2333 Millrace Court,Unit 2-4,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+559,Ontario Fulfillment,2333 Millrace Court,Unit 2-4,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+560,Sudbury - Valley East,5206 Highway 69 Road N,null,Ontario,Hanmer,P3P 1Z3,46.6540384,-80.9848815
+561,Western Canada Embroidery,9230 41 Avenue NW,null,Alberta,Edmonton,T6E 6R7,53.47684659999999,-113.4708081
+562,Richmond Hill East,10775 Leslie Street,Unit 1,Ontario,Richmond Hill,L4S 0B2,43.90029690000001,-79.3945008
+563,St Catharines West,420 Vansickle Road,Unit 1A Building J,Ontario,St Catharines,L2R 6P9,43.1532777,-79.2685072
+564,Stouffville,1090 Hoover Park Drive,null,Ontario,Stouffville,L4A 0K2,43.9543166,-79.2767211
+565,Toronto (Dufferin Mall),900 Dufferin Street,Unit 0010 Dufferin Mall,Ontario,Toronto,M6H 4B1,43.6568221,-79.4355673
+566,Wasaga Beach,75 45 Street S,null,Ontario,Wasaga Beach,L9Z 1A7,44.471791,-80.07377439999999
+567,Waterdown,17 Clappison Avenue,Unit 1,Ontario,Waterdown,L0R 2H2,43.3184096,-79.91373569999999
+568,Kanata,255 Kanata Avenue,Unit CC,Ontario,Kanata,K2T 1K5,45.3106138,-75.90617
+569,London SW,3110 Wonderland Road S,null,Ontario,London,N6L 1A6,42.9351987,-81.27959729999999
+570,Uxbridge,2A Welwood Drive,null,Ontario,Uxbridge,L9P 1Y4,44.0869535,-79.1348292
+571,Kapuskasing 1,52 Riverside Drive,null,Ontario,Kapuskasing,P5N 1A8,49.4163962,-82.424853
+572,Strathroy,24614 Adelaide Road,null,Ontario,Strathroy,N7G 2P8,42.94522329999999,-81.60874680000001
+573,Whitby North,4160 Baldwin Street S,Building K (CRU),Ontario,Whitby,L1R 3H8,43.91918,-78.9601325
+574,Whitby South,1751 Victoria Street E,null,Ontario,Whitby,L1P 9W4,43.8667804,-78.89887619999999
+576,Woodstock,515 Norwich Ave,null,Ontario,Woodstock,N4S 9A2,43.1149144,-80.7359895
+577,Welland,102 Primeway Drive,Unit R8,Ontario,Welland,L3B 0A1,43.0169049,-79.22771349999999
+578,Simcoe,142 Queensway E,Simcoe Town Centre Mall,Ontario,Simcoe,N3Y 4Y7,42.8476612,-80.2913779
+579,Bowmanville,2000 Green Road,null,Ontario,Bowmanville,L1C 3K7,43.9118378,-78.71439599999999
+580,St Thomas,1063 Talbot Street,Unit 72,Ontario,St. Thomas,N5P 1G4,42.7816768,-81.1716498
+581,Tillsonburg,200 Broadway Street,Unit B2-B3 Tillsonburg Town Centre,Ontario,Tillsonburg,N4G 5A7,42.8623132,-80.72850989999999
+582,Grimsby,44 Livingston Avenue,Unit 1 Grimsby Square,Ontario,Grimsby,L3M 1L1,43.1976226,-79.5690338
+584,Arnprior,375 Daniel Street S,Unit 111 Arnprior Shopping Centre,Ontario,Arnprior,K7S 3K6,45.42551719999999,-76.3677593
+585,Alliston,124 Young Street W,Unit T2 Alliston Mills Shopping Centre,Ontario,Alliston,L9R 1P8,44.1490182,-79.8851787
+586,Renfrew  ON,910 O'Brien Rd,Unit 1,Ontario,Renfrew,K7V 3Z4,45.4775892,-76.65684950000001
+588,Orillia,3275 Monarch Drive,Unit 450 West Ridge Place,Ontario,Orillia,L3V 7Z4,44.6087266,-79.45024649999999
+589,Leamington,288 Erie Street S,Unit 1,Ontario,Leamington,N8H 3C5,42.036324,-82.60026999999999
+590,Kitchener West,1400 Ottawa Street S,Unit A-1 Sunrise Shopping Center,Ontario,Kitchener,N2E 4E2,43.4158066,-80.51637219999999
+591,Trenton,260 Dundas Street E,Trenton Town Centre,Ontario,Trenton,K8V 1M2,44.1051425,-77.55776809999999
+592,Parry Sound,1 Pine Drive,Unit D-10 Walmart Plaza,Ontario,Parry Sound,P2A 3C3,45.3461242,-80.01193069999999
+593,Dryden,409 Government Street,null,Ontario,Dryden,P8N 2P4,49.787592,-92.8289956
+594,Cambridge,46 Pinebush Road,null,Ontario,Cambridge,N1R 8K5,43.4095065,-80.3232469
+597,Caledonia,351 Argyle Street S,Caledonia Plaza,Ontario,Caledonia,N3W 1K7,43.0620966,-79.962006
+598,Wallaceburg,68 McNaughton Avenue,Unit 15,Ontario,Wallaceburg,N8A 1R9,42.58423,-82.38452529999999
+600,Insurance Store,30  1035 - 64th Avenue SE,null,Alberta,Calgary,T2H 2J7,50.995405,-114.041563
+601,GTA Mobile Services 1,c/o 2333 Millrace Court,Unit 2-4,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+602,Ontario Mobile Services 2,c/o 2333 Millrace Court,Unit 2-4,Ontario,Mississauga,L5N 1W2,43.594461,-79.74538
+604,Eastern Mobile Services 1,4338 Innes Road,null,Ontario,Orleans,K4A 3W3,45.458867,-75.4920152
+606,SW Mobile Services 1,c/o Store 594,46 Pinebush Road,Ontario,Cambridge,N1R 8K5,43.3616211,-80.3144276
+703,Maple Ridge,20758 Lougheed Highway,null,British Columbia,Maple Ridge,V2X 2R3,49.2178247,-122.6461249
+710,Brantford,84 Lynden Road,Unit C25 Lynden Park Mall,Ontario,Brantford,N3R 6B8,43.1727295,-80.2424831
+711,Orangeville,53 Fourth Avenue,Unit 23,Ontario,Orangeville,L9W 1G7,43.9272222,-80.0916019
+713,Abbotsford,2545 McCallum Road,Unit 1,British Columbia,Abbotsford,V2S 3R1,49.04850649999999,-122.2940978
+714,Chilliwack,45737 Luckakuck Way,null,British Columbia,Chilliwack,V2R 4E8,49.1417235,-121.9586251
+730,St. John's,40 Kelsey Drive,null,Newfoundland,St. John's,A1B 5C7,47.552518,-52.7789383
+740,St. John's 2,95 Aberdeen Avenue,null,Newfoundland,St. John's,A1A 5P6,47.6182417,-52.71808919999999
+745,Pembroke,1100 Pembroke Street E,Pembroke Mall,Ontario,Pembroke,K8A 6Y7,45.8207485,-77.0844487
+747,Bracebridge,500 Highway 118 W,Bracebridge Shopping Centre 2,Ontario,Bracebridge,P1L 1T2,45.0430508,-79.3267831
+751,Stratford,1005 Ontario Street,Unit 51 Festival Marketplace,Ontario,Stratford,N5A 6W6,43.37078650000001,-80.9476413
+753,Peterborough,1135 Lansdowne Street W,Unit 2,Ontario,Peterborough,K9J 7M2,44.2801475,-78.3483176
+756,Lindsay,363 Kent Street,null,Ontario,Lindsay,K9V 2Z7,44.3505255,-78.75620379999999
+760,Mount Pearl,21 Merchant Drive,Unit 500,Newfoundland,Mount Pearl,A1N 5J5,47.5021865,-52.810765
+761,North Battleford,602 Carlton Trail,null,Saskatchewan,North Battleford,S9A 4A9,52.7624412,-108.2728616
+762,Yorkton,220A Broadway Street E,null,Saskatchewan,Yorkton,S3N 4C3,51.2093833,-102.450713
+780,Kamloops 2,72 700 Tranquille Road,North Hills Centre,British Columbia,Kamloops,V2B 3H9,50.69697900000001,-120.3592144
+781,Kamloops,1395 Hillside Drive,Unit 20 Aberdeen Village,British Columbia,Kamloops,V2E 2R7,50.65381379999999,-120.3770772
+792,St. Jerome-Belle Feuille,1035 Boul Jean-Baptiste-Rolland O,null,Quebec,Saint-Jerome,J7Y 4Y7,45.7667932,-74.019784
+794,Greenfield Park,5000 Boul Taschereau Locale 4970,null,Quebec,Greenfield Park,J4V 3M3,45.48043639999999,-73.46503489999999
+795,St. Bruno,511 Des Promenades Boul,Promendes St-Brun,Quebec,Saint-Bruno,J3V 6A8,45.5055524,-73.379282
+796,Boucherville,582 Chemin de Touraine,Unit 1204,Quebec,Boucherville,J4B 5E4,45.5741154,-73.4049047
+797,Brossard,9700 Boul Leduc,Suite 5,Quebec,Brossard,J4Y 0B3,45.44104799999999,-73.4373477
+798,St-Hyacinthe,3200 Boul Laframboise,Local 1675,Quebec,Saint-Hyacinthe,J2S 4Z5,45.6385298,-72.9648864
+820,CLSD Terrace,c/o 5855 68 Ave SE,Bldg A,Alberta,Calgary,T2C 5A7,50.99369739999999,-113.9456483
+822,Penticton 1,2607 Skaha Lake Rd,null,British Columbia,Penticton,V2A 6E8,49.467485,-119.5861501
+823,Ladner 1,Trenant Park Square,5259 Ladner Trunk Rd,British Columbia,Delta,V4K 1W4,49.09521549999999,-123.0264759
+824,Aldergrove,26310 Fraser Highway,Unit 570 Aldergrove Village,British Columbia,Aldergrove,V4W 2Z7,49.05886539999999,-122.4946237
+825,Sidney,1B 9764 5 Street,null,British Columbia,Sidney,V8L 2X2,48.6484466,-123.4009714
+827,Gibson,15 900 Gibsons Way,Sunny Crest Mall,British Columbia,Gibsons,V0N 1V7,49.4080427,-123.5190896
+829,Squamish,40270 Glenalder Place,Garibaldi Village,British Columbia,Squamish,V8B 0G2,49.7384555,-123.1333749
+833,Wainwright,2702 15 Avenue,null,Alberta,Wainwright,T9W 0A4,52.8444721,-110.8391054
+838,Drumheller,555 Highway 10 E,Greentree Shopping Centre,Alberta,Drumheller,T0J 0Y0,51.4547649,-112.6973747
+861,Goderich,397 Bayfield Road,Unit 20 Suncoast Mall,Ontario,Goderich,N7A 4E9,43.7292082,-81.7036068
+875,Atholville,85 312 Chemin Val D'Amour,Sugarload Mall,New Brunswick,Atholville,E3N 4E2,47.9935256,-66.6998926

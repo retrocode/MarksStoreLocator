@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title>Marks Storefinder</title>
+	
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<link rel="stylesheet"
+		th:href="@{/webjars/bootstrap/css/bootstrap.min.css}" />
+	
+	<style type="text/css">
+		#map {
+			height: 400px;
+			width: 400px;
+			background-image: url("/img/map.png");
+			background-size: 400px 300px;
+			background-repeat: no-repeat;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container-fluid">
+
+		<h1>Marks Storefinder</h1>
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">Search</h3>
+			</div>
+			<div class="panel-body">
+
+				<form action="/" class="form-horizontal">
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label">Predefined
+							locations:</label>
+						<div class="col-sm-10">
+							<a class="btn btn-default" th:each="location : ${locations}"
+								th:href="@{/(location=${{location.value}},distance=${{selectedDistance}})}"
+								th:text="${location.key}">Foo</a>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label for="location" class="col-sm-2 control-label">Location:</label>
+						<div class="col-sm-2">
+							<input id="location" name="location" th:value="${{location}}"
+								type="text" class="form-control" placeholder="lat,long" />
+						</div>
+					</div>
+
+
+					<div class="form-group">
+						<label for="distance" class="col-sm-2 control-label">Distance:</label>
+						<div class="col-sm-2">
+							<select id="distance" name="distance" class="form-control">
+								<option th:each="distance : ${distances}"
+									th:value="${{distance}}" th:text="${distance}"
+									th:selected="${distance == selectedDistance}">
+									Distance</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button id="submit" type="submit" class="btn btn-default">Search By Location</button>
+						</div>
+					</div>
+
+
+				</form>
+			</div>
+
+
+            <div class="panel-body">
+
+                <form action="/province" class="form-horizontal">
+
+                    <div class="form-group">
+                        <label for="province" class="col-sm-2 control-label">Province:</label>
+                        <div class="col-sm-2">
+
+                            <!--
+                            <select id="province" name="province" class="form-control">
+                                <option th:each="province : ${provinces}"
+                                        th:value="${{province}}" th:text="${province}"
+                                        th:selected="${province == selectedProvince}">
+                                    Province</option>
+                            </select>
+                            -->
+
+
+
+                            <input id="province" name="province"
+                                   type="text" class="form-control" placeholder="Alberta" th:value="${{province}}" />
+
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button id="submit2" type="submit" class="btn btn-default">Search By Province</button>
+                        </div>
+                    </div>
+
+
+                </form>
+            </div>
+
+
+		</div>
+
+		<div class="panel panel-default">
+
+			<div id="resultList" class="panel-heading">
+				<h3 class="panel-title">Results</h3>
+			</div>
+
+			<div class="panel-body">
+
+				<div id="map" class="col-md-4" th:attr="data-uri=${api}"></div>
+
+				<div class="col-sm-8" style="margin-left: 1em">
+					<div th:if="${stores.hasContent()}">
+						<p
+							th:text="'Showing ' + ${stores.numberOfElements} + ' of ' + ${stores.totalElements} + ' results.'">Found
+							1 results.</p>
+						<ol class="search-results">
+							<li class="search-result" th:each="store : ${stores}"
+								th:text="${store.name} + ' - ' + ${store.address}">Store
+								name</li>
+						</ol>
+					</div>
+					<p class="search-result no-results"
+						th:unless="${stores.hasContent()}">No Results</p>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<script type="text/javascript"
+		th:src="@{/webjars/jquery/jquery.min.js}"></script>
+
+	<script type="text/javascript"
+		th:src="@{/webjars/bootstrap/js/bootstrap.min.js}"></script>
+
+	<script type="text/javascript" th:src="@{/webjars/URI.js/URI.min.js}"></script>
+
+	<script type="text/javascript"
+		src="//maps.google.com/maps/api/js?key=AIzaSyC9LI3w4jluKaSuuNwPEbqwiKaBYGDNnQ0"></script>
+
+	<script type="text/javascript">
+    (function () {
+        "use strict";
+
+        function initApp() {
+
+            function handleSearchResult(searchResponse) {
+
+
+            }
+
+            window.marks = {
+
+                ui: {
+                    markers: [],
+                    map: null
+                },
+
+                performStoreSearch: function () {
+
+                	// Maps enabled (online)?
+
+                	if (!marks.ui.map) {
+                        return;
+                    }
+
+
+
+                	// Get location
+
+                	var location = $("#location").val();
+
+                	// Center map
+
+                	var coordinate = {
+                   		lat: parseFloat(location.split(",")[0]),
+                   		lng: parseFloat(location.split(",")[1])
+                   	}
+
+                	marks.ui.map.setCenter(coordinate);
+
+                	new google.maps.Marker({
+                    	position: coordinate,
+                    	map: marks.ui.map
+                    });
+
+                	// Expand template and execute search
+
+                    var template = new URITemplate($("#map").attr("data-uri"));
+
+
+                    var apiLocationURL = template.expand({
+						"size": 100,
+						"page": 0
+					});
+
+
+                    var province = $("#province").val()
+                    if (province){
+                        // do the province search
+                        apiLocationURL = apiLocationURL.concat("\u0026");
+                        apiLocationURL = apiLocationURL.concat("province=");
+                        apiLocationURL = apiLocationURL.concat(province);
+
+                    }
+                    else{
+                        // do the location search
+                        // encode the comma
+                        location = encodeURIComponent(location);
+                        apiLocationURL = apiLocationURL.concat("\u0026");
+                        apiLocationURL = apiLocationURL.concat("location=");
+                        apiLocationURL = apiLocationURL.concat(location);
+                        apiLocationURL = apiLocationURL.concat("\u0026");
+                        apiLocationURL = apiLocationURL.concat("distance=");
+                        apiLocationURL = apiLocationURL.concat($("#distance").val());
+
+                    }
+
+
+
+                    $.get(apiLocationURL, function(response) {
+
+                    	while (marks.ui.markers.length) {
+                            marks.ui.markers.pop().setMap(null);
+                        }
+
+                    	// Create marker for store
+
+                    	response._embedded["marksStores"].forEach(function (store) {
+                            marks.ui.markers.push(new google.maps.Marker({
+                            	position: {
+                            		lat: store.address.location.y,
+                            		lng: store.address.location.x
+                            	},
+                            	map: marks.ui.map
+                            }));
+                        });
+                    })
+                },
+
+                init: function() {
+                    marks.ui.map = new google.maps.Map($("#map")[0], { zoom: 10 });
+                    marks.performStoreSearch();
+                }
+            };
+
+            window.marks.init();
+        }
+
+        $(initApp);
+    })();
+</script>
+</body>
+</html>
